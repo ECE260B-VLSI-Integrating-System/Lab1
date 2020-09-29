@@ -1,0 +1,5 @@
+Ｉ think the hspice is used for get the some parameter of those circuit of some nodes.
+it is analog circuit simulation
+
+HOSTNAME=DESKTOP-SHIEKP1
+6030d4773299
